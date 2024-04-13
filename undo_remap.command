@@ -1,0 +1,1 @@
+sudo hidutil property --set '{"UserKeyMapping": []}'
